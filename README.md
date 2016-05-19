@@ -1,8 +1,8 @@
 # Android2Java
 Port of some Android Platform classes to Java Platform.
-Because some of them can be useful an Java Application such as Java SE or Java EE platform for example.
+Because some of them can be useful at Java Applications such as Java SE or Java EE platform for example.
 
-Please, see the test package to examples.
+Please, look at test package for examples.
 
 ###Classes Ported from Android Platform
 
@@ -14,6 +14,9 @@ Please, see the test package to examples.
 - MapCollections.java
 - Objects.java
 - SparseArray.java
+- Pools.java
+- SimplePool.java
+- SynchronizedPool.java
 
 ###Classes Adapted by me
 - SparseLongObjArray.java

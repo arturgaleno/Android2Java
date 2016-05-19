@@ -1,4 +1,4 @@
-package com.android2java;
+package com.android2java.sparsearraytest;
 
 import java.util.ArrayList;
 
